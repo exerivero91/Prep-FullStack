@@ -1,2 +1,1 @@
-# Prep-FullStack
-Repositorio de prueba para el prep course de Henry creado en mayo de 2023.
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde Github a mi computadora.
